@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Zoo Animal API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title">Zoo Animal API</string>
+
+    <string name="nombre">Nombre:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="habitat">Habitat:</string>
+
+    <string name="nombreAnimal">Nombre:</string>
+    <string name="tipoAnimal">Tipo:</string>
+    <string name="habitatAnimal">Habitat:</string>
+
+    <string name="info">+ Info por correo</string>
+    <string name="latin">Nombre latino</string>
+    <string name="tipoDetalle">Tipo:</string>
+    <string name="actividadDetalle">Actividad:</string>
+    <string name="largoMinDetalle">Largo Mínimo:</string>
+    <string name="largoMaxDetalle">Largo Máximo:</string>
+    <string name="pesoMinDetalle">Peso Mínimo:</string>
+    <string name="pesoMaxDetalle">Peso Máximo:</string>
+    <string name="vidaDetalle">Esp. de Vida:</string>
+    <string name="habitatDetalle">Hábitat:</string>
+    <string name="dietaDetalle">Dieta:</string>
+    <string name="localizacionDetalle">Localizacion:</string>
+
+    <string name="Imagen">Imagen de una animal</string>
+
+    <string name="forest">Forestl</string>
+    <string name="Diurnal">Diurnal</string>
+
+</resources>
